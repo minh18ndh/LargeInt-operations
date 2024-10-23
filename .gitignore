@@ -1,0 +1,19 @@
+# Ignore the Visual Studio Code settings folder
+.vscode/
+
+# Ignore compiled binary files
+*.exe
+
+# Ignore any temporary or backup files
+*.tmp
+*.bak
+*.swp
+
+# Ignore any log files
+*.log
+
+# Ignore compiled object files
+*.o
+
+# More
+*.docx
